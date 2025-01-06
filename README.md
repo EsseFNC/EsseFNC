@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EsseFNC
-- 👀 I’m interested in gaming, programming, football, Formula 1 and the motorycle world
-- 🌱 I’m currently learning LeetCode, backend development and Linux
+- 🌱 I’m currently learning backend development and Linux
+- ✨ Excited about tech innovations
+- Check out my repos if u wnat!
 
 <!---
 EsseFNC/EsseFNC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
