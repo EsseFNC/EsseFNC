@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EsseFNC
-- 🌱 I’m currently learning backend development and Linux
+- 🌱 I’m currently learning backend development and Rust
 - ✨ Excited about tech innovations
 - Check out my repos if u want!
 
