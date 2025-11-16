@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @EsseFNC
-- 🌱 I’m a brand-new CS engineering student at UNIBS
+- 🌱 Brand-new CS engineering student at UNIBS
 - ✨ Excited about tech innovations
 - Check out my repos if u want!
 
 ### My favourite technologies
 
 - Programming Languages: C, C++, Java, Python, JavaScript, PHP
-- Frameworks: Bootstrap, Android Studio
+- AI for data analysis/predictions in F1
 - Game Engine: Unity
 
 
