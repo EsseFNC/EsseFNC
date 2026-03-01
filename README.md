@@ -6,7 +6,7 @@
 ### My favourite technologies
 
 - Programming Languages: C, C++, Java, Python, JavaScript, PHP
-- AI for data analysis/predictions in F1
+- AI for data analysis/predictions
 - Game Engine: Unity
 
 
